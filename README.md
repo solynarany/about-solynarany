@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Твое красивое фото, оформленное в круг -->
-<img src="https://github.com/solynarany/solynarany/blob/main/photo.jpg?raw=true" width="180" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(255, 181, 167, 0.5);" alt="Виктория Петрова" />
-
 # ✨ Привет, я Виктория! (solynarany) ✨
 ### 👩‍💻 Software Engineer & IT Tutor | Спидраннер новых технологий 🚀
 
